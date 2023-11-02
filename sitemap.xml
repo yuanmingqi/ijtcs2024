@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/</loc>
+  <lastmod>2022-02-28T08:48:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/index.html</loc>
+  <lastmod>2022-02-28T08:48:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/chairs.html</loc>
+  <lastmod>2022-02-28T08:48:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/cfp.html</loc>
+  <lastmod>2022-02-28T08:48:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/accepted.html</loc>
+  <lastmod>2022-02-28T08:47:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/keynote_speakers.html</loc>
+  <lastmod>2022-02-28T08:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/invited_speakers.html</loc>
+  <lastmod>2022-02-28T08:48:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/program.html</loc>
+  <lastmod>2022-02-28T08:48:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/live.html</loc>
+  <lastmod>2022-02-28T08:48:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/registration.html</loc>
+  <lastmod>2022-02-28T08:48:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/previous_conference.html</loc>
+  <lastmod>2022-02-28T08:48:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/cfp_A.html</loc>
+  <lastmod>2022-02-28T08:47:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/cfp_B.html</loc>
+  <lastmod>2022-02-28T08:47:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/cfp_G.html</loc>
+  <lastmod>2022-02-28T08:47:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://conference.cs.cityu.edu.hk/ijtcs2022/cfp_H.html</loc>
+  <lastmod>2022-02-28T08:47:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

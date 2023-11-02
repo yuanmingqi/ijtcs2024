@@ -1,0 +1,47 @@
+8.15
+17:00-18:00
+Speaker: Quanshi Zhang, Huiqi Deng
+Affiliation: Shanghai Jiaotong University
+
+Unified Theory of Explaining Heuristic Findings in Attribution, Robustness, Generalization, Visual Features in a DNN.
+
+The interpretability of deep neural networks has received increasing attention in recent years. However, most XAI methods are designed to fit people’s cognition in an experimental manner without solid theoretic foundations. More crucially, many heuristic findings in deep learning cannot be theoretically explained. Thus, the lack of theoretic foundations has hampered the future development of XAI. Therefore, in this talk, the speakers will review several studies of explainable AI theories of their research group, which use game-theoretic interactions to explain common mechanisms shared by different studies. The speakers will provide a unified explanation for the attribution, the adversarial robustness, the generalization power of a DNN, and visual concepts encoded by the DNN.
+
+
+bio:
+Dr. Quanshi Zhang is an associate professor at Shanghai Jiao Tong University, China. He received the Ph.D. degree from the University of Tokyo in 2014. From 2014 to 2018, he was a post-doctoral researcher at the University of California, Los Angeles. His research interests are mainly machine learning and computer vision. In particular, he has made influential research in explainable AI (XAI) and received the ACM China Rising Star Award. He was the co-chairs of the workshops towards XAI in ICML 2021, AAAI 2019, and CVPR 2019. We is the speaker of the tutorials on XAI at IJCAI 2020 and IJCAI 2021.
+
+Huiqi Deng is a postdoctoral researcher in the team of Prof. Quanshi Zhang at Shanghai JiaoTong University. Her research interests focus on trustworthy machine learning, especially the interpretability of deep neural networks. In 2021, she received her Ph.D. degree from the School of Mathematics, Sun Yat-Sen University. During her Ph.D. period, she has ever visited HongKong Baptist University and Texas A&M University for three years. In the past 3 years, she has published many papers in top-tier conferences and journals such as ICLR, AAAI, KDD, Pattern Recognition. Among them, the ICLR paper was invited to give oral presentations (top 1.5%).
+
+
+8.15
+18:00-19:00
+
+Speaker: Zhaoran Wang
+Affiliation: Northwestern University
+
+Title: Demystifying (Deep) Reinforcement Learning with Optimism and Pessimism
+
+ABSTRACT:
+
+Coupled with powerful function approximators such as deep neural networks, reinforcement learning (RL) achieves tremendous empirical successes. However, its theoretical understandings lag behind. In particular, it remains unclear how to provably attain the optimal policy with a finite regret or sample complexity. In this talk, we will present the two sides of the same coin, which demonstrates an intriguing duality between optimism and pessimism.
+
+– In the online setting, we aim to learn the optimal policy by actively interacting with the environment. To strike a balance between exploration and exploitation, we propose an optimistic least-squares value iteration algorithm, which achieves a \sqrt{T} regret in the presence of linear, kernel, and neural function approximators.
+
+– In the offline setting, we aim to learn the optimal policy based on a dataset collected a priori. Due to a lack of active interactions with the environment, we suffer from the insufficient coverage of the dataset. To maximally exploit the dataset, we propose a pessimistic least-squares value iteration algorithm, which achieves a minimax-optimal sample complexity.
+
+BIO:
+
+Zhaoran Wang is an assistant professor at Northwestern University, working at the interface of machine learning, statistics, and optimization. He is the recipient of the AISTATS (Artificial Intelligence and Statistics Conference) notable paper award, ASA (American Statistical Association) best student paper in statistical learning and data mining, INFORMS (Institute for Operations Research and the Management Sciences) best student paper finalist in data mining, Microsoft Ph.D. Fellowship, Simons-Berkeley/J.P. Morgan AI Research Fellowship, Amazon Machine Learning Research Award, and NSF CAREER Award.
+
+
+8.15
+19:00-20:00
+
+Wei Hu （UC Berkeley）
+
+Title: More Than a Toy: Random Matrix Models Predict How Real-World Neural Representations Generalize
+
+Abstract: Understanding how deep neural networks generalize remains notoriously challenging in theory. This talk will motivate and examine a simpler question, that is, the generalization of high-dimensional linear regression models, using several empirical high-performing real-world neural-network-induced settings as a testbed (e.g. the empirical NTK of a pretrained ResNet applied to CIFAR-100). We find that, perhaps surprisingly, even in these linear settings, most existing theoretical analyses for linear/kernel regression fail to qualitatively capture the empirical generalization phenomena. On the other hand, a random matrix theory hypothesis gives rise to an estimator that accurately predicts generalization. Based on https://arxiv.org/abs/2203.06176 (ICML 2022).
+
+Bio: Wei Hu is a postdoc at UC Berkeley and an incoming assistant professor at the University of Michigan. He obtained his Ph.D. from Princeton University, advised by Sanjeev Arora. He is interested in the theoretical and scientific foundations of modern machine learning, with a particular focus on deep learning.

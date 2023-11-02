@@ -1,0 +1,70 @@
+=========Session 1: 8/15, Monday, 10:00-11:00, Chair: TBD =================
+
+10:00-10:20
+Title:  String Rearrangement Inequalities and a Total Order Between Primitive Word
+Authors: Ruixi Luo, Taikun Zhu, and Kai Jin
+Speaker: Ruixi Luo (1056435051@qq.com) 
+
+10:20-10:40
+Title:  On the Transversal Number of Rank k Hypergraphs
+Authors: Zhongzheng Tang and Zhuo Diao
+Speaker: Zhongzheng Tang (tangzhongzheng@amss.ac.cn)
+
+10:40-11:00
+Title: Colorful Graph Coloring
+Authors: Zhongyi Zhang and Jiong Guo
+Speaker: Zhongyi Zhang (202015106@mail.sdu.edu.cn)
+ 
+
+=========Session 2: 8/15, Monday, 11:00-12:00, Chair: TBD =================
+
+11:00-11:20
+Title:  Approximation Algorithms for Prize-Collecting Capacitated Network Design Problems
+Authors: Lu Han, Vincent Chau, and Chi Kit Ken Fong
+Speaker: Lu Han (hl@bupt.edu.cn)
+
+11:20-11:40
+Title: An Approximation Algorithm for the H-Prize-Collecting Power Cover Problem
+Authors: Han Dai, Weidong Li, and Xiaofei Liu
+Speaker: Han Dai (18283649705@163.com)
+
+11:40-12:00
+Title: Secure Computations through Checking Suits of Playing Cards
+Authors: Daiki Miyahara and Takaaki Mizuki
+Speaker: Daiki Miyahara (miyahara@uec.ac.jp)
+
+
+
+=========Session 3 (invited talk): 8/15, Monday, 13:00-14:00, Chair: Haitao Wang=================
+Title: Voronoi diagrams in the Presence of Obstacles
+Speaker: Hee-Kap Ahn (heekap@postech.ac.kr)
+
+
+
+=========Session 4 (invited talk): 8/16, Tuesday, 13:00-14:00, Chair: Chung-Shou Liao=================
+Title: Recent Progress in Online Matching
+Speaker: Zhiyi Huang (zhiyi@cs.hku.hk)
+
+
+
+=========Session 5: 8/16, Tuesday, 14:00-15:20, Chair: TBD =================
+
+14:00-14:20
+Title: Exact Algorithms and Hardness Results for Geometric Red-Blue Hitting Set Problem
+Authors: Raghunath Reddy Madireddy, Subhas C Nandy, and Supantha Pandit
+Speaker: Raghunath Reddy Madireddy (raghunath@hyderabad.bits-pilani.ac.in)
+
+14:20-14:40
+Title: Online Early Work Maximization on Three Hierarchical Machines with a Common Due Date
+Authors: Man Xiao and Weidong Li
+Speaker: Man Xiao (man1205@163.com)
+
+14:40-15:00
+Title: Bounds for the Oriented Diameter of Planar Triangulations
+Authors: Debajyoti Mondal, N. Parthiban, and Indra Rajasingh
+Speaker: Parthiban Natarajan (parthiban24589@gmail.com)
+
+15:00-15:20
+Title: Streaming Submodular Maximization with the Chance Constraint
+Authors: Shufang Gong, Bin Liu, and Qizhi Fang
+Speaker: Shufang Gong (shufanggong@stu.ouc.edu.cn)
